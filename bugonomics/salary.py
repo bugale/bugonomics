@@ -1,0 +1,2 @@
+class Salary:
+    pass
