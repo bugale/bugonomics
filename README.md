@@ -1,2 +1,2 @@
-# bugonomics
-Economics Python Library
+# Bugonomics
+A Pytohn library for calculating economics-related stuff.
